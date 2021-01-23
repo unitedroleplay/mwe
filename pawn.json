@@ -5,8 +5,8 @@
 	"output": "gamemodes/test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"AliLogic/ugmp-stdlib:1.0.2",
-		"zeex/samp-plugin-crashdetect:v4.20"
+		"zeex/samp-plugin-crashdetect:v4.20",
+		"AliLogic/ugmp-stdlib:1.0.2"
 	],
   	"local": true,
   	"runtime": {
