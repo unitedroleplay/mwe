@@ -1,0 +1,17 @@
+##
+# Executables
+##
+*.exe
+/samp03svr
+/announce
+/samp-npc
+
+##
+# Binaries
+##
+/plugins/
+
+##
+# Compiled gamemodes
+##
+*.amx

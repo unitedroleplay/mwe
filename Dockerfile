@@ -47,4 +47,7 @@ RUN \
 ##
 # Copy files from docker/ directory
 ##
-COPY docker/* .
+RUN \
+    rm -rf samp03svr && \
+    rm -rf plugins/ugmp.so && \
+    cp -rf docker/* .

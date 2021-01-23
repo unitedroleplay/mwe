@@ -1,6 +1,7 @@
-#include <a_samp>
-#include <ugmp>
+#include <a_ugmp>
 #include <crashdetect>
+
+main() {}
 
 public OnGameModeInit()
 {
